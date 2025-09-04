@@ -2,6 +2,12 @@
 
 This project is a simple yet powerful **Movie Recommendation System** built using **Streamlit** for the UI, **Pandas & Pickle** for data handling, and **TMDb API** for fetching movie posters.  
 
+---
+
+<img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/0523da3d-ecb0-47cb-9cd3-05d28be6e923" />
+
+---
+
 ## ✨ Features
 - Search and select a movie from the dataset.  
 - Get **top 5 movie recommendations** instantly.  
